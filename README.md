@@ -38,3 +38,6 @@ Vite покажет Network URL вида `http://192.168.1.15:5173`.
 ```js
 localStorage.clear()
 ```
+
+## RAI Demo v2
+Добавлены: экзамены, отчётность с фото, чат, Telegram/WhatsApp demo-actions, RAI Assistant, закупки, остатки/расход, график/QR/опоздания/зарплата.
